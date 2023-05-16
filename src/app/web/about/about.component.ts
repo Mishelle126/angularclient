@@ -9,4 +9,4 @@ export class AboutComponent {
 
 }
 
-//ADRIAN MUÑOZ
+//Mishelle Abendaño
